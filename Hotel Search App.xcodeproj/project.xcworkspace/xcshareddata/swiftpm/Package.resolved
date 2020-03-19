@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Amadeus",
+        "repositoryURL": "https://github.com/amadeus4dev/amadeus-swift.git",
+        "state": {
+          "branch": "master",
+          "revision": "63dbc4f45fcdff782c808cf6dd7339f9963fdd9d",
+          "version": null
+        }
+      },
+      {
+        "package": "SwiftyJSON",
+        "repositoryURL": "https://github.com/SwiftyJSON/SwiftyJSON.git",
+        "state": {
+          "branch": null,
+          "revision": "2b6054efa051565954e1d2b9da831680026cd768",
+          "version": "4.3.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
